@@ -1,0 +1,11 @@
+.select-item {
+  display: inline-block;
+  position: relative;
+}
+
+.ipt-item {
+  display: inline-block;
+  position: absolute;
+  top: 2px;
+  left: 2px;
+}
